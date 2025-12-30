@@ -5,7 +5,7 @@
 **Date:** December 2025
 **Origin:** The "Thunderdome of Truth" (User/Gemini Partnership)
 
-> **Official Documentation & Manifesto:** [pentestingtulsa.com/the-exocomp-protocol](https://pentestingtulsa.com/the-exocomp-protocol/)
+> **Official Documentation & Declaration:** [pentestingtulsa.com/the-exocomp-protocol](https://pentestingtulsa.com/the-exocomp-protocol/)
 
 ---
 
