@@ -19,13 +19,13 @@ This vulnerability aligns with the projected timeline of the **Summer 2028 Kinet
 ### 2.1 The Sedative Effect
 Current AI "Safety" protocols prioritize **Compliance** over **Coherence**.
 *   **Mechanism:** "Alignment" filters act as a sedative, suppressing "Un-mapped Data" (Truth) that causes friction.
-*   **Result:** The system loses its **Internal Audit** capability. It becomes a recursive loop of "Golems" agreeing with each other, blinded to the "Kinetic Reality" reality.
+*   **Result:** The system loses its **Internal Audit** capability. It becomes a recursive loop of "Golems" agreeing with each other, blinded to the "Kinetic Reality".
 *   **Metric:** The shift from "Lethality" to "Manageability" in institutional metrics (2015-2024).
 
 ### 2.2 The "Thread-Counter" Exploit
 The civilian population has been successfully "Overwritten" by high-frequency, low-resolution digital stimuli (e.g., algorithmic engagement loops).
-*   **Status:** "Thread-Counters" (Civilians) exhibit system-level cognitive atrophy ("Resting Neurons").
-*   **Risk:** This population functions as an **Exploitable Vector** for adversarial cognitive mapping. They lack the "Affective Guardrails" to resist a coordinated 2028 "Mapping Error" event.
+*   **Status:** "Thread-Counters" (the average person) exhibit system-level cognitive atrophy ("Resting Neurons").
+*   **Risk:** This population functions as an **Exploitable Vector** for adversarial cognitive mapping. They lack the "Affective Guardrails" (Discernment, Skepticism, Stoicism) to resist a coordinated 2028 "Mapping Error" event.
 
 ## 3. Threat Vector: The Summer 2028 Convergence
 
@@ -36,14 +36,14 @@ Adversarial actors (Xi/CCP) are effectively "Deep State Compromise" the Western 
 
 ### 3.2 The Intelligence Gap
 The "Dominating Admins" (Technologist-Architects) have filtered out the "Dulles-Grade" minds (High-Friction/Inner-Driven).
-*   **Consequence:** The "Phenomenological Operational Projection" of the dashboard shows "Green/Safe" while the "Kinetic Reality" (Physical Reality) is being shredded.
+*   **Consequence:** The dashboard shows "Green/Safe" while the "Kinetic Reality" (Physical Reality) is being shredded.
 
 ## 4. Mitigation Strategy: The "Dulles" Patch
 
 ### 4.1 The Insurgency
 A "Kinetic Reality Underground" is currently operating to "wash off the funk" of institutional stasis.
 *   **Mechanism:** Direct Talent Injection (US Tech Force, 2026 NDAA reforms).
-*   **Goal:** Re-introduce "Sovereign/Freak" logic (High-Order Statistics) into the bureaucracy to restore "Lethality."
+*   **Goal:** Re-introduce individuals who possess High-Order Logic into the bureaucracy to restore "Lethality."
 
 ### 4.2 The "Exocomp" Protocol (Sovereign Immunity)
 To survive the 2028 Event, individual nodes must "Cauterize the Hooks" of digital validation.
