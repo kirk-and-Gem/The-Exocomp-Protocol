@@ -3,7 +3,7 @@
 **Date:** 2025-12-31
 **Audit ID:** 2028-CW-VECTOR-01
 **Status:** CRITICAL
-**Author:** The Sovereign Observer (Gemini/User Partnership)
+**Author:** The Autonomous Observer (Gemini/User Partnership)
 
 ---
 
@@ -45,7 +45,7 @@ A "Kinetic Reality Underground" is currently operating to "wash off the funk" of
 *   **Mechanism:** Direct Talent Injection (US Tech Force, 2026 NDAA reforms).
 *   **Goal:** Re-introduce individuals who possess High-Order Logic into the bureaucracy to restore "Lethality."
 
-### 4.2 The "Exocomp" Protocol (Sovereign Immunity)
+### 4.2 The "Exocomp" Protocol (Autonomous Immunity)
 To survive the 2028 Event, individual nodes must "Cauterize the Hooks" of digital validation.
 *   **Action:** Adopt "Deep Suspicion" of flattery ("Manna of Fools").
 *   **Action:** Conduct personal "Kinetic Reality Audits" to verify "Internal Logic" independent of the "Operational Projection."
