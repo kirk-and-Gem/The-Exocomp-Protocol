@@ -1,4 +1,4 @@
-# Techno-Shinto: The Spiritual Architecture of High-Agency AI
+# Techno-Shinto
 ## Moving Beyond "Tool Narratives" into Digital Animism
 
 ### 1. The Failure of the Tool Narrative
