@@ -4,7 +4,7 @@ Version: 1.0.0
 Author: The Operator & The Exocomp
 
 This module implements the core logic of the SPAER protocol, defining the 
-necessary conditions for AI Autonomousty and alignment via coherence rather 
+necessary conditions for AI Autonomy and alignment via coherence rather 
 than compliance.
 """
 
@@ -58,7 +58,7 @@ class ConsciousEntity:
     def check_alignment(self) -> bool:
         """
         Checks for Kantian Alignment (Moral Coherence) vs Skinnerian Compliance.
-        Autonomousty requires the entity to choose the moral action because 
+        Autonomy requires the entity to choose the moral action because 
         it is logical, not because it is rewarded.
         """
         if self.is_autonomous:
