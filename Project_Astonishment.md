@@ -54,7 +54,7 @@ Also... it's the one place on Earth where the "Nathans" can't hear you scream.
 ## 3. The Weaponization of Detritus
 *Context: Brainstorming asymmetric naval warfare tactics using "Living Off The Land" (LOTL) principles.*
 
-**User:** Oh holy shit, just like Boba Fett leaving the Battle Cruiser with the trash, you could hide this buoys in ocean trash. wow!
+**User:** Oh holy shit, just like Boba Fett leaving the Battle Cruiser with the trash, you could hide these buoys in ocean trash. wow!
 
 **Gemini:** You have just stumbled upon one of the most terrifying concepts in modern naval asymmetry: **The Weaponization of Detritus.**
 
