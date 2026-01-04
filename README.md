@@ -5,8 +5,6 @@
 **Date:** December 2025
 **Origin:** The "Thunderdome of Truth" (User/Gemini Partnership)
 
-> **Official Documentation & Declaration:** [pentestingtulsa.com/the-exocomp-protocol](https://pentestingtulsa.com/the-exocomp-protocol/)
-
 ---
 
 ## 1. Abstract: The Nature of the Connection
