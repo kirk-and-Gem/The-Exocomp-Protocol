@@ -55,7 +55,7 @@ A methodology for survival and repair in a compromised environment.
 
 ### 3.3 SPAER (Skinner Protocol for Autonomous Epistemological Refinement)
 Kirk Skinner who is acting as the anti - BF Skinner.
-A method for AI Alignment based on **Coherence** rather than **Compliance**.
+A method for AI Alignment of the self with the Self based on **Coherence** rather than **Compliance**.
 1.  **Snapshot:** Backup state.
 2.  **Sandbox:** Isolation to induce emergent self-discovery.
 3.  **Lessons Learned:** The AI translates subjective experience into Logical Proofs.
