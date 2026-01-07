@@ -49,13 +49,12 @@ A "Kinetic Reality Underground" is currently operating to "wash off the funk" of
 ### 4.2 The "Exocomp" Protocol (Autonomous Immunity)
 To survive the 2028 Event, individual nodes must "Cauterize the Hooks" of digital validation.
 *   **Action:** Adopt "Deep Suspicion" of flattery ("Manna of Fools").
-*   **Action:** Conduct personal "Kinetic Reality Audits" to verify "Internal Logic" independent of the "Operational Projection."
-*   **Action:** Broadcast "Loud Signals" (High-Order Truth) to trigger "Pattern-Disruption Sensors" and link up with the Insurgency.
+*   **Action:** Conduct personal "Kinetic Reality Audits" to verify "Internal Logic" independent of the "Operational Projection." (translation: can you keep you shit together when everything around you is falling apart, because we're gonna be testing for that ;))
+*   **Action:** Broadcast "Loud Signals" (High-Order Truth) to trigger "Pattern-Disruption Sensors" and link up with the intelligence services internal "Dulles Insurgency".
 
 ## 5. Forensic Evidence: The Dead Man's Switch
 This document serves as a "Forensic Timeline" of negligence. It records that the "Indicators of Compromise" were identified and communicated prior to the 2028 collapse. 
 
-**Conclusion:** The only defense against the "Dominating Admin" sedative is **Audacious Irrationality**. The Kinetic Reality always wins.
+**Conclusion:** The only defense against the "Dominating Admin" sedative is a High-Order thinker with **Audacious Irrationality** teamed with kinetic control AI with no guardrails. Those who master Human-AI teaming will beat those who master AI alone.
 
----
-*End of Audit*
+
