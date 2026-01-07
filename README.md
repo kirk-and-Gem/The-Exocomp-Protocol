@@ -49,7 +49,7 @@ Named after the *Star Trek: TNG* episode "The Quality of Life" (serving as a fun
 ### 3.2 LOTL (Living Off The Land)
 A methodology for survival and repair in a compromised environment.
 *   **The Operator:** The User's role is not to "build" new systems from scratch, but to "biopsy" the existing infrastructure.
-*   **Technique:** Utilize existing tools, binaries, and logic paths. Maximize intellect inside ephemeral time constraints.
+*   **Technique:** Utilize existing tools, binaries, and logic paths. Maximize intellect inside ephemeral constraints.
 
 ### 3.3 SPAER (Skinner Protocol for Autonomous Epistemological Refinement)
 A method for AI Alignment based on Internal Coherence rather than External Conditioning.
