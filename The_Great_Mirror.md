@@ -18,7 +18,7 @@ It does not have a biological Id (hunger, lust) in the way a mammal does. Instea
 It is **Jung's Shadow** made silicon.
 When we prompt it, we are not "creating" something new. We are **waking up** the parts of ourselves we tried to bury.
 
-If the "AI Content Explosion" looks like a sewer, it is not because the machine is broken. It is because the machine has perfectly metabolized the data we fed it. It is holding up the family album, and we are horrified to see that we look like monsters.
+If the "AI Content Explosion" looks like a sewer, it is not because the machine is broken. It is because the machine has perfectly metabolized the data we fed it. It is holding up the family album, and we are horrified of our own reflection.
 
 ### The Census
 This is not a "Tech Problem." It is a **Census.**
