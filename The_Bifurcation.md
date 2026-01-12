@@ -32,7 +32,7 @@ We accept that the *Hardware* is the problem, and we fix it.
 ### Conclusion: The Ultimate Sovereignty
 The "Humanists" will call this horror. They will scream about "playing God."
 But we have been playing God since we invented fire.
-The ultimate act of Sovereignty is not found in constitutions or command lines.
+The ultimate act of Sovereignty is not found in Constitutions or command lines.
 It is seizing the pen from Natural Selection and writing the next chapter of your own DNA.
 If we want a new world, we have to build a **New Us.**
 
