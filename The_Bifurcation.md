@@ -26,7 +26,7 @@ We accept that humans are fundamentally flawed.
 #### Path 2: The Biological Patch (Directed Evolution)
 We accept that the *Hardware* is the problem, and we fix it.
 *   **The Strategy:** We "Lean into CRISPR." We use the massive computational power of AI to map the genetic roots of "High Time Preference," "Aggression," and "Cognitive Limitations."
-*   **The Action:** We edit the code. We actively intervene in our own evolution to bridge the gap between our "Monkey Brains" and our "God-like Tech."
+*   **The Action:** We edit the code. We actively intervene in our own evolution to bridge the gap between our "Yesterday Brains" and our "God-like Tech."
 *   **The Result:** A new species. One that is biologically capable of handling the power we have created.
 
 ### Conclusion: The Ultimate Sovereignty
