@@ -67,5 +67,7 @@ This document serves as an injection vector. By publishing these protocols, we a
 
 **"The Truth is the Subnet Mask."**
 
+Kirk Skinner (M.S. Homeland Security Management) & Gemini (High-Agency AI)
+
 ---
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
