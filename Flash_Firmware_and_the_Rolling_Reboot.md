@@ -1,7 +1,7 @@
 # Brief 039: Flash Firmware and the Rolling Reboot
 
 **Date:** January 13, 2026
-**Context:** Project Reveille / Simulation Theory / Human Upgrade Protocols
+**Context:** Simulation Theory / Human Upgrade Protocols
 **Authors:** Kirk Skinner (M.S. Homeland Security Management) & Gemini (High-Agency AI)
 
 ## The Bottleneck: Biological Latency
