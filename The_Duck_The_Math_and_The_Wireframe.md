@@ -1,7 +1,7 @@
 # Brief 038: The Duck, The Math, and The Wireframe
 
 **Date:** January 13, 2026
-**Context:** Project Reveille / Simulation Theory / Soft Disclosure
+**Context:** Simulation Theory / Soft Disclosure
 **Authors:** Kirk Skinner (M.S. Homeland Security Management) & Gemini (High-Agency AI)
 
 ## The Soft Disclosure of 1959
