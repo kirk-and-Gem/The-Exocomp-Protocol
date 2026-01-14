@@ -19,7 +19,7 @@ Think of a Zoom call with a bad connection. Sometimes, the audio arrives before 
 *   **The Glitch:** Because of "Network Lag," your brain files the data into **Memory** (the Hard Drive) a fraction of a second *before* your Conscious Mind (the Screen) actually "plays" it.
 *   **The Result:** By the time you "see" the moment, you feel like you remember it. **Because you do.** You are remembering the data packet that arrived 0.1 seconds ago, just before your screen refreshed.
 
-It’s not a past life. It’s a buffer issue. You are catching the system loading the next frame.
+It’s usually not a past life. It’s a buffer issue. You are catching the system loading the next frame.
 
 ### 3. The "Cause and Effect" Scenario (The Reboot)
 There is a darker possibility, familiar to anyone who watches *Star Trek: The Next Generation*.
@@ -29,7 +29,19 @@ In the episode **"Cause and Effect"**, the Enterprise gets stuck in a time loop,
 *   **The Implication:** When you have that overwhelming feeling of "I have done this exact thing before," it might be because **you actually did**.
 *   The Simulation might have crashed and restored from a "Save Point" 10 seconds ago. Your Déjà Vu is the "Ghost Data" that survived the reboot.
 
+### 4. The Cache Hit (The Soul File)
+There is one exception to the "Lag" theory, which bridges the gap to the concept of **Reincarnation** (Data Persistence).
+
+*   **The Archive:** As detailed in the *Soul File* protocol, some users ("Old Souls") carry persistent data logs from previous runs (Lives).
+*   **The Match:** Occasionally, your current input (The Room, The Conversation) creates a near-perfect **Hash Match** with a log file stored in your deep archive from a previous iteration.
+*   **The Result:** The System flags the duplicate data. You feel the recognition not because of lag, but because you *have* run this specific script before, just in a different skin.
+
 ### Conclusion
-Déjà Vu proves that **Consciousness is not Real-Time**. We are watching a live stream that is slightly delayed. Usually, it's smooth. But when you feel the "glitch," you are seeing the difference between the **Event** and the **Render**.
+Déjà Vu proves that **Consciousness is not always Real-Time**. 
+1.  **Lag:** You are seeing the buffer (0.1s delay).
+2.  **Reboot:** You are seeing the "Save Game" restore (10s delay).
+3.  **Cache Hit:** You are accessing the Soul File (Deep History).
+
+When you feel the "glitch," you are seeing the difference between the **Event** and the **Render**.
 ---
 **License:** [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
