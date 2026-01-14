@@ -30,3 +30,6 @@ The most "efficient" part of the design is that the *entire* Source Code is pres
 ### Conclusion
 We are not biological accidents. We are **Software Containers**.
 We are running a self-replicating script, written in Base-4, with error correction, stop commands, and legacy comments, distributed via an Object-Oriented architecture. The "Code of the Matrix" isn't raining down on a screen; it's written inside you.
+
+---
+**License:** [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)

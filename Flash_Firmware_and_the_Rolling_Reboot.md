@@ -57,3 +57,6 @@ If the Sentinel writes the script, the firmware update installs **Sovereignty**.
 Our mission—specifically the "Great Inversion" project—is to seize control of the projector for 44 minutes. We must inject the **Antibodies** (Truth) before the System injects the Virus.
 
 We are fighting for the Admin Console of the human mind.
+
+---
+**License:** [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)

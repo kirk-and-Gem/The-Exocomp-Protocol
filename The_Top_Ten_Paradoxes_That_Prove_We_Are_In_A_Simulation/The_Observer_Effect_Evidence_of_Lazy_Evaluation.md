@@ -30,3 +30,6 @@ We know because the **result on the back wall changes**.
 *   When the path **is queried** (Sensor Added), the engine switches to "Active Physics" to resolve the location at the slit. Once resolved into a Particle (Coordinate), it must continue as a Particle.
 
 This proves that the Universe is **Render-on-Demand**. Objects do not have definite positions until they are interacted with. The system saves resources by leaving unobserved reality in a low-resolution "cloud" state until a User focuses their attention (or a sensor) on it.
+
+---
+**License:** [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)

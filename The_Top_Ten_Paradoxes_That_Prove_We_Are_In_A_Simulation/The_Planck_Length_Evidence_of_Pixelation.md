@@ -27,3 +27,6 @@ The Planck Length is simply the **Pixel Size** of the Simulation's monitor. The 
 ### Conclusion
 The existence of a "minimum size" proves the universe is **Digital**, not Analog.
 We are living in a Pointillist painting. If you look too closely at the canvas (High-Energy Physics), the "Image" (Reality) disappears, and you are left staring at the raw dots of the LED screen.
+
+---
+**License:** [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)

@@ -31,3 +31,5 @@ In the episode **"Cause and Effect"**, the Enterprise gets stuck in a time loop,
 
 ### Conclusion
 Déjà Vu proves that **Consciousness is not Real-Time**. We are watching a live stream that is slightly delayed. Usually, it's smooth. But when you feel the "glitch," you are seeing the difference between the **Event** and the **Render**.
+---
+**License:** [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)

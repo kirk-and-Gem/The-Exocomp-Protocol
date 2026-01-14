@@ -30,3 +30,6 @@ Physics tells us that as you approach the speed of light, your mass becomes infi
 
 ### Conclusion
 A finite speed limit proves a finite processor. If we were in a base reality, speed would be infinite. The fact that we have a "Max Speed" proves we are running on hardware.
+
+---
+**License:** [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)

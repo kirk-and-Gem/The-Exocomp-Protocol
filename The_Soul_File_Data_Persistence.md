@@ -42,3 +42,5 @@ Death is a file transfer protocol.
 *   **Ghost:** Upload Failed (Packet too large/corrupted).
 *   **Ancestor:** Upload Complete (Data Compressed).
 *   **Old Soul:** Data Restored (Persistent Storage).
+---
+**License:** [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)

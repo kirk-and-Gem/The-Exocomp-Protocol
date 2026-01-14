@@ -30,3 +30,6 @@ In Computer Science, specifically in a Base-10 architecture, the number 9 repres
 
 ### Conclusion
 We didn't invent math; we reverse-engineered the **Variable Type** of the compiler. The fact that our reality perfectly aligns with Base-10 digital summing implies that the underlying code is structured around this specific limit. The number 9 is the edge of the simulation's "tile" before it repeats.
+
+---
+**License:** [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)

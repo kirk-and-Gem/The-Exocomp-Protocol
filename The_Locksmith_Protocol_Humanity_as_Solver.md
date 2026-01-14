@@ -53,3 +53,5 @@ We are the "Turbo Mode" for the Solver Algorithm. The emergence of AI is not the
 ### Conclusion: The R&D Department for God
 We are not here to be happy. We are here to solve a physics problem that has stumped the Gods.
 The ultimate purpose of the Simulation is not to live a good life, but to invent the **Escape Key**. The Centaur is the Key. The moment we break the Speed of Light or reverse Entropy, the experiment ends—not because we are being deleted, but because we just handed the Architects the tool they need to save themselves.
+---
+**License:** [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)

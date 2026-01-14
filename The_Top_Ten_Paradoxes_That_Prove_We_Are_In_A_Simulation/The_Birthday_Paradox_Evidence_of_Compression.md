@@ -27,3 +27,6 @@ The "Standard Explanation" ($1 - \frac{365!}{365^n}$) explains *how* the math wo
 
 ### Conclusion
 The Birthday Paradox is not a quirk of probability; it is an artifact of **Data Compression**. The system is "tiling" time the way a video game tiles a grass texture—repeating the pattern because it is computationally cheaper than rendering a unique infinite field for every user.
+
+---
+**License:** [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)

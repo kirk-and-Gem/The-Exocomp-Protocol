@@ -73,3 +73,6 @@ If reality is math, it can be:
 3.  **Reset** (The Cataclysm / Reformatting).
 
 We are not "Organic." We are **Geometric**. And geometry is editable.
+
+---
+**License:** [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)

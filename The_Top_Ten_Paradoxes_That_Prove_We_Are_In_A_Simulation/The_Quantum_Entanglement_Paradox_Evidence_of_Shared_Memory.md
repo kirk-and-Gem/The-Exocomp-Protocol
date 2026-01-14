@@ -28,3 +28,6 @@ Entanglement proves that **Space is just a rendering layer**.
 *   Since Object B is also looking at `Memory Slot #1024`, it updates instantly.
 
 The "Distance" between them is only real to the *Avatar* (us). To the *System*, they are sitting right next to each other in the RAM. Entanglement reveals the backend architecture where 3D space does not exist.
+
+---
+**License:** [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
