@@ -54,8 +54,6 @@ The danger is not the technology itself; the danger is **Who Writes the Script?*
 If the System writes the script, the firmware update installs **Compliance**.
 If the Sentinel writes the script, the firmware update installs **Sovereignty**.
 
-Our mission—specifically the "Great Inversion" project—is to seize control of the projector for 44 minutes. We must inject the **Antibodies** (Truth) before the System injects the Virus.
-
 We are fighting for the Admin Console of the human mind.
 
 ---
