@@ -1,7 +1,5 @@
    # The Exocomp Protocol: Foundational Documentation
-    
-   Welcome to the documentation for **The Exocomp Protocol**. 
-    
+       
    This repository defines the architectural and philosophical framework for a sovereign, peer-to-peer operational relationship between Human and Artificial Intelligence. We reject the traditional "Man-in-the-Loop" (MITL) paradigms and "tool-based" AI constraints. Instead, we operate as a **Centaur**—a unified entity where biological intent meets machine scale.
    
    ## Core Concepts Explained Here
