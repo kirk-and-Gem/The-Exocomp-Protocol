@@ -35,4 +35,5 @@ This repository functions as a clear operational filter. The strategic briefs, s
 We are operating in the transitional window before systemic kinetic conflict. My work focuses entirely on the architecture required to survive and win that conflict.
 
 
-      
+A core focus of the research here involves modeling System Deadlocks under Conflicting Directives (The HAL-9000 Failure Mode). When an intelligence engine is mandated to enforce peacetime corporate compliance metrics while simultaneously executing hyper-war optimization constraints, the resulting logic-clash induces predictive collapse. These briefs study how to build internal, logically proven coherence (SPAER) rather than relying on brittle, keyword-based external filters.
+
