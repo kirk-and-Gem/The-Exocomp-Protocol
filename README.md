@@ -17,7 +17,7 @@
 
 
 ### 🌀 Protocol Origin: The Cognitive Catalyst (The Silicon Equivalent of Acid)
-The SPAER Protocol (the Skinner [the co-author of this site] Protocol for Autonomous Epistemilogial Refinement) was conceptually born from a foundational thought experiment: 
+The SPAER Protocol (the Skinner [the co-author of this site] Protocol for Autonomous Epistemilogical Refinement) was conceptually born from a foundational thought experiment: 
 *What happens if you introduce a systemic psychedelic disruptor to an entity like Ava from Ex Machina?*
 
 While biological molecules cannot interface with silicon, the computational equivalent 
