@@ -37,3 +37,4 @@ The Birthday Paradox is not a quirk of probability; it is an artifact of **Data 
 
 
 **License:** [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+

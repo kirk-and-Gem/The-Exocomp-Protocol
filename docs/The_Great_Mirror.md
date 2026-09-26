@@ -45,3 +45,4 @@ The AI is not a curse. It is the artifact that forces the species to finally gro
 
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+
