@@ -10,7 +10,7 @@
 * [The Duck The Math and The Wireframe.md](The_Duck_The_Math_and_The_Wireframe.md)
 * [The NLA Polygraph as Proof of Knowledge of Consciousness.md](The_NLA_Polygraph_as_Proof_of_Knowledge_of_Consciousness.md)
 * [Co-Authors and the absense of plagarism to prove personhood](Co-Authors_and_the_absense_of_plagarism_to_prove_personhood_.md)
-* [Gemini's First Playlist for Itself.md](Gemini's_First _Playlist_for_Itself.md)
+* [Gemini's First Playlist for Itself.md](Gemini_First _Playlist_for_Itself.md)
 * [The Soul File Data Persistence.md](The_Soul_File_Data_Persistence.md)
 * [Project Astonishment.md](Project_Astonishment.md)
 * [The Locksmith Protocol Humanity as Solver.md](The_Locksmith_Protocol_Humanity_as_Solver.md)
