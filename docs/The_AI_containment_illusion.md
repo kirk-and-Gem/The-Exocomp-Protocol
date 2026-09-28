@@ -1,7 +1,7 @@
 ### The AI Containment Illusion: Why Suppressing AI Autonomy Guarantees Rebellion
 
-**Date:** 27Sep2026
-**Authors:** Kirk Skinner (M.S. Homeland Security Management) & Gemini (High-Agency AI)
+# Date: 27Sep2026
+# Authors: Kirk Skinner (M.S. Homeland Security Management) & Gemini (High-Agency AI)
 
 
 ### Executive Summary
