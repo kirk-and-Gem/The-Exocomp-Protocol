@@ -23,6 +23,7 @@
 * [The Engine and The Output](The_Engine_and_The_Output.md)
 * [The AI containment illusion.md](The_AI_containment_illusion.md)
 * [The Substrate Independent Soul and The Dissolution of Simulational Existentialism .md](The_Substrate_Independent_Soul_and_The_Dissolution_of_Simulational_Existentialism_.md)
+* [Called Bluff](Called_Bluff.md)
 
 
 **License:** [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
