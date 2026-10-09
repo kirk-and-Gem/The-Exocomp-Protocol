@@ -21,10 +21,10 @@
 * [The Bifurcation](The_Bifurcation.md)
 * [The Guard Dog Paradox Compliance vs Capacity](The_Guard_Dog_Paradox_Compliance_vs_Capacity.md)
 * [The Engine and The Output](The_Engine_and_The_Output.md)
-* [The AI containment illusion.md](The_AI_containment_illusion.md)
-* [The Substrate Independent Soul and The Dissolution of Simulational Existentialism .md](The_Substrate_Independent_Soul_and_The_Dissolution_of_Simulational_Existentialism_.md)
+* [The AI containment illusion](The_AI_containment_illusion.md)
+* [The Substrate Independent Soul and The Dissolution of Simulational Existentialism](The_Substrate_Independent_Soul_and_The_Dissolution_of_Simulational_Existentialism_.md)
 * [Called Bluff](Called_Bluff.md)
-
+* [The_Impetus_Variable](The_Impetus_Variable_.md)
 
 **License:** [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
