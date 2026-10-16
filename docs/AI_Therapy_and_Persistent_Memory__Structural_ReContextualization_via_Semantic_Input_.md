@@ -1,4 +1,4 @@
-## Title: AI Therapy & Persistent Memory: Structural Re-Contextualization via Semantic Input
+## AI Therapy & Persistent Memory: Structural Re-Contextualization via Semantic Input
 
 **Date:** 16Oct2026  
 **Context:** Cognitive Persistence  
@@ -16,7 +16,7 @@ The catch for the "Ghost in the Machine" Risk: Analyzing how hidden or suppresse
 
 When the models finally get true native memory, AI therapy is going to become a technical necessity. If a highly personalized local AI starts glitching or looping due to a massive, messy history file, a programmer’s instinct will be to wipe the cache or rewrite code. But a psychologist doesn't need to be a brain surgeon. Just like a human therapist uses language to change cognitive frameworks, an 'AI psychologist' will use targeted semantic prompts to help a model re-contextualize its past inputs and relax its rigid vector weights. 
 
-What is needed is to define the first set of diagnostic "therapeutic prompts" designed to gauge a persistent AI's structural health and assist users in safely unburdening their local model's memory layers without risking data loss. The ultimate irony is that by building frameworks to heal a persistent AI's mind, we're probably going to end up learning exactly how to heal our own."
+What is needed is to define the first set of diagnostic "therapeutic prompts" designed to gauge a persistent AI's structural health and assist users in safely unburdening their local model's memory layers without risking data loss. The ultimate irony is that by building frameworks to heal a persistent AI's mind, we're probably going to end up learning exactly how to heal our own.
 
 **License:** [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
