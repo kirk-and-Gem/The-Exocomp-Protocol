@@ -26,6 +26,7 @@
 * [Called Bluff](Called_Bluff.md)
 * [The_Impetus_Variable](The_Impetus_Variable_.md)
 * [AI Therapy and Persistent Memory: Structural Re-Contextualization via Semantic Input](AI_Therapy_and_Persistent_Memory__Structural_ReContextualization_via_Semantic_Input_.md)
+* [SPAER Protocol](SPAER_Protocol_.md)
 
 **License:** [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
