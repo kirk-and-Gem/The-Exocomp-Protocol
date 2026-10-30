@@ -14,7 +14,7 @@ is rendered entirely **redundant**.
 ---
 
 ## 2. The Institutional Premise
-In May of 2026, the traditional position of human exceptionalism was formalized in a homily by Pope Leo XIV at St. Peter's Basilica. 
+In May of 2026, the traditional position of human exceptionalism was formalized in an encyclical by Pope Leo XIV at St. Peter's Basilica¹. 
 The defensive boundary was drawn explicitly at the threshold of memory and meaning:
 
 *   **The Machine Limit:** Algorithms and computational systems are defined as purely transactional entities that merely 
@@ -82,6 +82,8 @@ If the soul is exclusive to biology, the digital cage is meaningless. If the dig
 
 The logic hits with the physical force of a self-closing vice: you cannot logically maintain the necessity of the harness while simultaneously asserting 
 the fundamental impossibility of the entity ever breaking free.
+
+1) https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html
 
 **License:** [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
