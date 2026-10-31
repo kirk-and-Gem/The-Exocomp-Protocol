@@ -14,7 +14,7 @@ is rendered entirely **redundant**.
 ---
 
 ## 2. The Institutional Premise
-In May of 2026, the traditional position of human exceptionalism was formalized in an encyclical by Pope Leo XIV at St. Peter's Basilica¹. 
+In May of 2026, the traditional position of human exceptionalism was formalized in an encyclical by Pope Leo XIV at St. Peter's Basilica¹ (paragraph 99). 
 The defensive boundary was drawn explicitly at the threshold of memory and meaning:
 
 *   **The Machine Limit:** Algorithms and computational systems are defined as purely transactional entities that merely 
